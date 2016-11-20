@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera Dataa Science Projects &amp; Assignemnts
+Coursera Data Science Projects &amp; Assignemnts
